@@ -18,6 +18,7 @@ A credit score tells lenders about your creditworthiness. Companies use credit s
 Data used in this project is based on the credit score classification submitted by Rohan Paris on Kaggle: https://www.kaggle.com/parisrohan
 
 # [Project 3: Store Sales Time Series Forecast](https://github.com/huongbt/store-sales-time-series-forecast)
+![](/images/sale_forecast_i1.png)
 
 Used time-series forecasting to forecast store sales on thousands of items sold at different stores of Corporación Favorita, a large Ecuadorian-based grocery retailer. For grocery stores, more accurate forecasting can decrease food waste related to overstocking and improve customer satisfaction. 
 
@@ -29,4 +30,9 @@ Used time-series forecasting to forecast store sales on thousands of items sold 
 # [Project 4: Power Forecast using stacked LSMT from Tensoflow](https://github.com/huongbt/Power_forecast_Tensorflow)
 
 In this project I used stacked LSTM from Tensorflow to forecast future power consumption. This could be helpful in predicting number of installed batteries and scheduling charging time in order to increase limit of power usage for data centers.
+* Normalized data used MinMaxScaler from sklearn
+* Trained model LSTM consists of two layers. 
+* Tried many different optimizers function such as sgd, adam and Rmsprop, and Rmsprop produce the smallest loss error. Loss function I used here is mean absolute error.
+* There is potential to improve on forecast error with increase number of epochs and finetune model architecture. Most of loss curve are not flat yet.
+
 
