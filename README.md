@@ -7,6 +7,8 @@ Click-through rate (CTR) is a very important metric for evaluating ad performanc
 
 In this project, our task is to predict whether the user will click on the ad or not. I trained a Machine Learning model to find relationships between the independent variables of all the users who click on ads.
 
+[](/images/ACTRi4.png)
+
 # [Project 2: Creditcard Score Classification](https://github.com/huongbt/Credit-Score-Classification)
 
 A credit score tells lenders about your creditworthiness. Companies use credit scores to make decisions on whether to offer you a mortgage, credit card, auto loan, and other credit products. With fast incresing in using Machine Learning and Deep Learning for most of our aspect of lives, banks and credit card companies are not out of these trends. They use Machine learning algorithms to classify their customers's credit card score into different levels based on their customers's historical data.
