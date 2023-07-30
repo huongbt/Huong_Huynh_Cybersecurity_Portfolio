@@ -7,7 +7,7 @@ Click-through rate (CTR) is a very important metric for evaluating ad performanc
 
 In this project, our task is to predict whether the user will click on the ad or not. I trained a Machine Learning model to find relationships between the independent variables of all the users who click on ads.
 
-[](/images/ACTRi4.png)
+![](/images/ACTRi4.png)
 
 # [Project 2: Creditcard Score Classification](https://github.com/huongbt/Credit-Score-Classification)
 
@@ -19,15 +19,18 @@ A credit score tells lenders about your creditworthiness. Companies use credit s
 
 Data used in this project is based on the credit score classification submitted by Rohan Paris on Kaggle: https://www.kaggle.com/parisrohan
 
+![](/images/csi3.png)
+
 # [Project 3: Store Sales Time Series Forecast](https://github.com/huongbt/store-sales-time-series-forecast)
-![](/images/sale_forecast_i1.png)
 
 Used time-series forecasting to forecast store sales on thousands of items sold at different stores of Corporación Favorita, a large Ecuadorian-based grocery retailer. For grocery stores, more accurate forecasting can decrease food waste related to overstocking and improve customer satisfaction. 
 
 * Models used in the project: Facebook Prophet and Xgboost. Facebook Prophet produced the much better result than Xgboost.
 * Combined many different data set from the competition such as oil price, holidays,...
 * Forecast each product family at each store (there are 33 families and 54 stores) and combined the result together.
-* Used Mean absolute percentage error to evaluate model performance. 
+* Used Mean absolute percentage error to evaluate model performance.
+  
+![](/images/sfci2.png)
 
 # [Project 4: Power Forecast using stacked LSMT from Tensoflow](https://github.com/huongbt/Power_forecast_Tensorflow)
 
@@ -37,4 +40,4 @@ In this project I used stacked LSTM from Tensorflow to forecast future power con
 * Tried many different optimizers function such as sgd, adam and Rmsprop, and Rmsprop produce the smallest loss error. Loss function I used here is mean absolute error.
 * There is potential to improve on forecast error with increase number of epochs and finetune model architecture. Most of loss curve are not flat yet.
 
-
+![](/images/pfi3.png)
