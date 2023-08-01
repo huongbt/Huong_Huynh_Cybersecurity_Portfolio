@@ -30,7 +30,7 @@ Used time-series forecasting to forecast store sales on thousands of items sold 
 * Forecast each product family at each store (there are 33 families and 54 stores) and combined the result together.
 * Used Mean absolute percentage error to evaluate model performance.
   
-![](/images/im1.png)
+![](/images/sf.png)
 
 # [Project 4: Power Forecast using stacked LSMT from Tensoflow](https://github.com/huongbt/Power_forecast_Tensorflow)
 
