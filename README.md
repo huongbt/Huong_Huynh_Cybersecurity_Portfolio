@@ -1,4 +1,4 @@
-# Huong's Data Science Project Porfolio
+
 Hi, My name's Huong Huynh. I am a Data Scientist who is passionate in extracting insights from data and learning new techniques to help this process more efficient.
 
 # [Project 1: Ads Click Through Rate Prediction](https://github.com/huongbt/Ads-CTR-Prediction)
