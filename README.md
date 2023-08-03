@@ -11,10 +11,10 @@ In this project, our task is to predict whether the user will click on the ad or
 
 # [Project 2: Credit Card Score Classification](https://github.com/huongbt/Credit-Score-Classification)
 
-A credit score tells lenders about your creditworthiness. Companies use credit scores to make decisions on whether to offer you a mortgage, credit card, auto loan, and other credit products. With fast incresing in using Machine Learning and Deep Learning for most of our aspects of life, banks and credit card companies are not out of these trends. They use Machine Learning algorithms to classify their customers's credit card score into different levels based on their customers's historical data.
+A credit score tells lenders about your creditworthiness. Companies use credit scores to make decisions on whether to offer you a mortgage, credit card, auto loan, and other credit products. With fast increasing in using Machine Learning and Deep Learning for most of our aspects of life, banks and credit card companies are not out of these trends. They use Machine Learning algorithms to classify their customers's credit card score into different levels based on their customers's historical data.
 
 * Built a classifier to classify credit score into three different labels (Good, Standard, Poor). 
-* Trained data with Random Forest Classifier and Xgboost Classifier. O
+* Trained data with Random Forest Classifier and Xgboost Classifier. 
 * Fine-tuned hyperparameters using RandomizedSearchCV and GridSearchCV to reach the best model.
 
 Data used in this project is based on the credit score classification submitted by Rohan Paris on Kaggle: https://www.kaggle.com/parisrohan
@@ -35,7 +35,7 @@ Used time-series forecasting to forecast store sales on thousands of items sold 
 # [Project 4: Power Forecast using stacked LSTM from Tensoflow](https://github.com/huongbt/Power_forecast_Tensorflow)
 
 In this project I used stacked LSTM from Tensorflow to forecast future power consumption. This could be helpful in predicting number of installed batteries and scheduling charging time in order to increase limit of power usage for data centers.
-* Normalized data used MinMaxScaler from sklearn
+* Normalized data used MinMaxScaler from sklearn.
 * Trained model LSTM consists of two layers. 
 * Tried many different optimizers function such as sgd, adam and Rmsprop; Rmsprop produces the smallest loss error. Loss function I used here is mean absolute error.
 * There is some potential to improve on forecast error with either increasing number of epochs or finetuning model architecture. Most of loss curve are not flat yet.
