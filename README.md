@@ -1,5 +1,5 @@
 
-Hi, My name's Huong Huynh. I am an experienced data analyst who is passionate in protecting people and organizations from cyber attacks.
+Hi, My name's Huong Huynh. I am an experienced data analyst who is passionate in protecting people and data from cyber attacks.
 
 # [Project 1: Ads Click Through Rate Prediction](https://github.com/huongbt/Ads-CTR-Prediction)
 
